@@ -7,3 +7,5 @@ x = [1, 2, 3, 4]
 ## Amend at local follow Github
 y = np.log(x)
 
+## Conflict Test at Github_master
+hist(x, y)
