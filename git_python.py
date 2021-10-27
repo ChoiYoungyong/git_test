@@ -7,5 +7,7 @@ x = [1, 2, 3, 4]
 ## Amend at local follow Github
 y = np.log(x)
 
-## Conflict Test at Github_master
-hist(x, y)
+## Conflict Test at Github_branch0
+## Amend branch conflict at Github follow branch_0
+plot(x, y)
+boxplot(x, y)
