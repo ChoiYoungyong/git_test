@@ -5,3 +5,14 @@ import numpy as np
 int x, y
 x = rand(6)
 y = rand(100)
+
+## For Conflict at Github
+int z
+calc(x , y){
+  if x>=y
+  z = x - y
+  print(z)
+  else
+  z = x + y
+  print(z)
+}
